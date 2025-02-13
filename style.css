@@ -20,3 +20,15 @@
 body {
   margin: 5px;
 }
+
+.display-flex {
+  display: flex;
+}
+
+.footer-bg {
+  background-color: #364049;
+}
+
+.row-padding-top {
+  padding-top: 5rem;
+}
