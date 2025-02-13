@@ -1,6 +1,17 @@
-/* .first-image {
+.fade-image {
   opacity: 0.5;
-} */
+}
+
+.video-area-bg {
+  background-image: url(images/Chihuacroc.webp);
+  background-size: cover;
+  background-position: center;
+  min-height: 800px;
+}
+
+.video-area-height {
+  min-height: 800px;
+}
 
 .first-bg {
   background-color: #e1ded6;
